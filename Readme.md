@@ -7,16 +7,6 @@ A complete fullstack e-commerce web application built with **React**, **Express*
 
 ---
 
-## 📁 Project Structure (Monorepo)
-
-ecommerce-platform/
-├── frontend/ # React-based e-commerce site for users
-├── backend/ # Node.js/Express REST API with MongoDB
-├── admin/ # React admin dashboard for managing the store
-
-
----
-
 ## 🚀 Tech Stack
 
 ### 🌐 Frontend (`/frontend`)
@@ -45,46 +35,42 @@ ecommerce-platform/
 
 ---
 
-## 📦 Setup Instructions
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/ahmedbaig2004/ecommerce-platform.git
-cd ecommerce-platform
-
-🌐 Deployment
-Frontend
+### Frontend
 Deployed via GitHub Pages at:
 📍 https://ahmedbaig2004.github.io/Ecommerce-frontend/
 
 
-📸 Features
-✅ Frontend
-Browse products
+## 📸 Features
 
-Add to cart & checkout
+### ✅ Frontend
 
-User authentication (login/register)
+- Browse products
 
-Order history
+- Add to cart & checkout
 
-✅ Backend:
-RESTful API for products, orders, users
+- User authentication (login/register)
 
-Secure auth using JWT
+- Order history
 
-Role-based access (admin/user)
+### ✅ Backend:
 
-Image upload to Cloudinary
+- RESTful API for products, orders, users
 
-Stripe payment integration
+- Secure auth using JWT
 
-✅ Admin Dashboard:
-View and manage all products
+- Role-based access (admin/user)
 
-View orders & users
+- Image upload to Cloudinary
 
-Add/edit/delete products
+- Stripe payment integration
 
-Secure login
+### ✅ Admin Dashboard:
+
+- View and manage all products
+
+- View orders & users
+
+- Add/edit/delete products
+
+- Secure login
 
